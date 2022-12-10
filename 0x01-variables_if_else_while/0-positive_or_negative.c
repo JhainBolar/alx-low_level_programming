@@ -1,8 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- 
+/** 
  * main - outputs a positive, negative or number that equals 0
  *
  *
