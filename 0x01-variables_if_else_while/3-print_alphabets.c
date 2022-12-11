@@ -1,16 +1,18 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
  * Return: Always 0 (success)
  *
  */
-int main(void)
+
+int main()
+
 {
 	char o;
-	for (o = 'a'; o <='z'; o++)
+	for (o = 'a'; o <= 'z'; o++)
+
 	{
 		putchar(o);
 	}
@@ -18,7 +20,8 @@ int main(void)
 
 
 
-	for (o = 'A'; o <='Z'; o++)
+	for (o = 'A'; o <= 'Z'; o++)
+		
 	{
 		putchar(o);
 	}
