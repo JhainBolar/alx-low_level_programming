@@ -15,8 +15,10 @@ int main(void)
 
 	{
 
-	if ( s == 'q' || s == 'e'){
+	if ( s == 'q' || s == 'e')
 	
+	{
+
 		continue;
 
 	}
