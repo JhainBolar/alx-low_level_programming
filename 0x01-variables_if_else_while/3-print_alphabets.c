@@ -7,16 +7,18 @@
  *
  */
 
-int main()
+int main(void)
 
 {
 	char o;
+
 	for (o = 'a'; o <= 'z'; o++)
 
 	{
+
 		putchar(o);
+
 	}
-	printf("\n");
 
 
 
@@ -25,6 +27,7 @@ int main()
 	{
 		putchar(o);
 	}
+	
 	printf("\n");
 
 	return (0);
