@@ -6,24 +6,26 @@
  *
  */
 
-int main(void){
-	
+int main(void)
+{
+
 	char s;
+
 	for (s = 'a'; s <= 'z'; s++)
-	
+
 	{
-	
+
 	if ( s == 'q' || s == 'e'){
-		
+	
 		continue;
 
 	}
 		putchar(s);
-	
-	
+
+
 	}
-	printf("%c", s);
-	
+	printf("\n");
+
 	return(0);
 
 
