@@ -23,11 +23,11 @@ int main(void)
 
 
 	for (o = 'A'; o <= 'Z'; o++)
-		
+
 	{
 		putchar(o);
 	}
-	
+
 	printf("\n");
 
 	return (0);
