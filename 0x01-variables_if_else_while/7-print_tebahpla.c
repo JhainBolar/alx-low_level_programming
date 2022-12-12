@@ -11,11 +11,12 @@ int main(void)
 
 	u = 'z';
 
-	while(u >= 'a')
+	while (u >= 'a')
 	{
-		printf("%c", u);
+		putchar(u);
 
 		u--;
 	}
+	putchar('\n');
 	return (0);
 }
