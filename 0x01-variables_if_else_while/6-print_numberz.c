@@ -8,10 +8,11 @@
 int main(void)
 {
 	int j;
+
 	j = 0;
 
 	while
-	
+
 	(j < 10)
 	{
 		putchar(j + '0');
