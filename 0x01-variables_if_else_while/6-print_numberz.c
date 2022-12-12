@@ -2,21 +2,21 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success)
- *
+ *  Return: Always 0 (success)
  */
 
 int main(void)
 {
-	int k;
+	int j;
+	j = 0;
 
-	for (k = 0; k <= 9; k++)
+	while
+	
+	(j < 10)
 	{
-		putchar(k);
+		putchar(j + '0');
+		j++;
 	}
-	printf("\n");
-
+	putchar('\n');
 	return (0);
-
 }
-
