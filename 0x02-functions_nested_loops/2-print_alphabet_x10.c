@@ -4,7 +4,7 @@
  *
  * print_alphabet_x10 - print letters a-z times 10
  *
- * * Return: Returns void.
+ * Return: Returns void.
  */
 
 void print_alphabet_x10(void)
