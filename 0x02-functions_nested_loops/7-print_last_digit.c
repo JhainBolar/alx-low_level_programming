@@ -16,7 +16,9 @@ int print_last_digit(int x)
 	{
 		d = -d;
 	}
-
-	printf("%d", d);
-
+	else 
+	{
+	d = +d;
+	_putchar((d) + '0');
+	return (d);
 }	
