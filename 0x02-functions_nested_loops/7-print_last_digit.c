@@ -14,7 +14,7 @@
  * Return: last digit of number m
  */
 
-int print_last_digit(int m)	
+int print_last_digit(int m)
 {
 
 	int n;
