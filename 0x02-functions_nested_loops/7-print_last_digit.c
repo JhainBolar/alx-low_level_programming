@@ -1,24 +1,48 @@
 #include "main.h"
 
+
+
 /**
- * print_last_digit - prints the last digit of a number.
+ * print_last_digit
  *
- *  @x: An integre input
+ * @m: An integer input
  *
- * Return: Absolute value of number r
+ * Description: This function prints
+ *
+ * The last digit of a number
+ *
+ * Return: last digit of number m
  */
-int print_last_digit(int x)
+
+
+
+
+
+int print_last_digit(int m)
+	
 {
 
-	int d = x % 10;
+	int n;
 
-	if (x < 0)
+
+
+	if (m < 0)
 	{
-		d = -d;
+
+	n = -1 * (m % 10);
+
 	}
-	else 
+
+	else
+
 	{
-	d = +d;
-	_putchar((d) + '0');
-	return (d);
+
+	n = m % 10;
+
+
+
+	_putchar((n % 10) + '0');
+
+	return (n % 10);
+
 }	
