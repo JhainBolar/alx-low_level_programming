@@ -14,28 +14,18 @@
  * Return: last digit of number m
  */
 
-
-
-
-
 int print_last_digit(int m)
 	
 {
 
 	int n;
 
-
-
 	if (m < 0)
-	{
 
 	n = -1 * (m % 10);
 
-	}
-
 	else
 
-	{
 
 	n = m % 10;
 
@@ -45,6 +35,5 @@ int print_last_digit(int m)
 
 	return (n % 10);
 
-	}
 
 }
