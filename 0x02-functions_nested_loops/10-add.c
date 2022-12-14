@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * add - returns the sum of its parameters
+ * add - return the sum of parameters
  *
  * @x: int type number
  *
@@ -10,6 +10,6 @@
 
 int add(int x, int y)
 {
- return (x + y);
+	 return (x + y);
 }
- 
+
