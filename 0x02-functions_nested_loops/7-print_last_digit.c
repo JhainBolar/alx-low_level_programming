@@ -3,7 +3,7 @@
 
 
 /**
- * print_last_digit
+ * print_last_digit - print last tigit of a number
  *
  * @m: An integer input
  *
@@ -14,8 +14,7 @@
  * Return: last digit of number m
  */
 
-int print_last_digit(int m)
-	
+int print_last_digit(int m)	
 {
 
 	int n;
