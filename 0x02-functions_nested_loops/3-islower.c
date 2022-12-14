@@ -1,7 +1,9 @@
-#include 'main.h'
+#include "main.h"
 
 /**
  * 3-islower.c - Check if alphabet is uppercase or lowecase
+ *
+ * @c: an input character
  *
  * Return: Returns void.
  */
