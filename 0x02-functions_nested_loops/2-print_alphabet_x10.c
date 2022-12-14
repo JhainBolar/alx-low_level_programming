@@ -1,8 +1,6 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
  * print_alphabet_x10 - print letters a-z times 10
  *
  * Return: Returns void.
