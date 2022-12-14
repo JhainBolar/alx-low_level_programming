@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * add - return the sum of its parameters
+ * add - returns the sum of its parameters
  *
  * @x: int type number
  *
  * @y: int type number
+ *
+ * Return:0
  */
 
 
