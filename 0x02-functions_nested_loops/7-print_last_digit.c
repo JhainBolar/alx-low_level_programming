@@ -45,4 +45,6 @@ int print_last_digit(int m)
 
 	return (n % 10);
 
-}	
+	}
+
+}
