@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - print letters a-z times 10
+ * print_alpahabet_x10 - print letters a-z times 10
  *
  * Return: Returns void.
  */
