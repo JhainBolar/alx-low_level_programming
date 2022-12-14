@@ -7,7 +7,7 @@
  * Return: Absolute value of number r
  */
 
-int _abs(int)
+int _abs(int x)
 {	
 	if (x < 0) 
 	{
