@@ -2,9 +2,19 @@
 /**
  * _abs - function return absolute value
  *
- * @a: An integre input
+ * @x: An integre input
  *
  * Return: Absolute value of number r
  */
 
-
+int _abs(int)
+{	
+	if (x < 0) 
+	{
+		return -x;
+	}
+	else
+	{
+		return x;
+	}
+}

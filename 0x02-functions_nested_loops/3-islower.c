@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * 3-islower.c - Check if alphabet is uppercase or lowecase
+ * 3-islower- Check if alphabet is uppercase or lowecase
  *
  * @c: an input character
  *
