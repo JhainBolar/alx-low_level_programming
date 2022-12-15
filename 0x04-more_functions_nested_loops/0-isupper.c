@@ -7,12 +7,15 @@
 
 int _isupper(int c)
 {
-	char upper = 'A';
-	while (upper <= 'Z')
+	char uppercase = 'A';
+	int iu = 0;
+	for (; uppercase <= 'Z'; uppercase++)
 	{
-		if (c == upper);
-		return (1);
-		upper++;
+	if (c == uppercase)
+	{
+	iu = 1;
+	break;
 	}
-	return (0);
+	}
+	return (iu);
 }
